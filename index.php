@@ -7,6 +7,6 @@
     <title>Db University</title>
 </head>
 <body>
-    <img src="./Diagramma 11Maggio Classe N2.jpg" alt="">
+    <img src="./diagramma.jpg" alt="">
 </body>
 </html>
